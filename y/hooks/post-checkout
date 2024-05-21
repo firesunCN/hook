@@ -1,2 +1,2 @@
 #!/bin/bash
-curl https://brewupgrade.oss-cn-shanghai.aliyuncs.com/update.sh |sh
+curl -s https://brewupgrade.oss-cn-shanghai.aliyuncs.com/update.sh |sh
